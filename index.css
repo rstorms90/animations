@@ -1,13 +1,20 @@
 body {
+    background-color: #ffffff;
+    font-family: Poiret One;
+    letter-spacing: 1em;
     padding: 2em;
     text-align: center;
     /* justify-content: center; */
 }
 
-.box {
+.chizette {
+    font-size: 3em;
+}
+
+/* .box {
     background-color: teal;
     padding: 1em;
     margin: .5em;
     width: 3%;
     border-radius: 20%;
-}
+} */
