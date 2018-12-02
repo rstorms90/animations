@@ -1,0 +1,12 @@
+body {
+    padding: 2em;
+    text-align: center;
+}
+
+.box {
+    background-color: teal;
+    padding: 1em;
+    margin: .5em;
+    width: 3%;
+    border-radius: 20%;
+}
